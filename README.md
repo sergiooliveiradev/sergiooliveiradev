@@ -1,6 +1,6 @@
 ### Hi I'm Sérgio Oliveira 😀🖖
 ### • 🧑🏻‍💻 Junior Web Developer who wants to gain experience and create amazing layouts!
-### • ⚙️ I am currently working as Assistant IT Technician at the company Supermassa.
+### • ⚙️ I am currently working as Assistant IT Technician at the company Supermassa
 ### • 🔍 Ask me about JavaScript, HTML, CSS
 ### • 🎮 Fun fact: I'm a big fan of movies and video games
 
